@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+}
+
+.wrap {
+  padding-top: 1px;
+  padding-bottom: 20px;
+  background-color: aquamarine;
+}
+
+.To-Do-List {
+  text-align: center;
+}
+
+hr {
+  background-color: black;
+  color: black;
+  border: 0px;
+  height: 1px;
+  text-align: center;
+  width: 50%;
+}
+
+.add-todo {
+  text-align: center;
+  background-color: aquamarine;
+}
+
+.Add-your-task {
+  background-color: aquamarine;
+  text-align: center;
+}
+
+.input-types {
+  text-align: center;
+}
+
+.list-contents {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.todo-text {
+  text-align: center;
+  margin: 0;
+  border: none;
+  border-radius: 0;
+  width: 200px;
+  padding: 5px;
+  font-size: 16px;
+}
+
+.todo-btn {
+  padding-top: 5px;
+  width: 50px;
+  height: 27px;
+  text-align: center;
+}
+
+.current-tasks {
+  background-color: blue;
+  margin-top: 0px;
+}
